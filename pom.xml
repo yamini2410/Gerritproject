@@ -3,4 +3,13 @@
   <groupId>com.tataelxsi.Gerritproject</groupId>
   <artifactId>Gerritproject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  <dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>7.4.0</version>
+			<scope>test</scope>
+		</dependency>
+		</dependencies>
+		
 </project>
